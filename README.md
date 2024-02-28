@@ -12,9 +12,9 @@
 
 - I’m currently improving my **Clean Architecture** skills, while also trying my hand at new technologies like Go and Svelte.
 
-<div style="text-align:center; gap: 2%; margin-top:25px">
-<img style="display:inline-block; height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabrielfalk&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="joaogabrielfalk" />
-<img style="display:inline-block; height="150px" src="https://github-readme-stats-joaofalk.vercel.app/api?username=joaogabrielfalk&theme=aura_dark&show_icons=true&hide=stars" alt="joaogabrielfalk" />
+<div align="center" style="margin-top:25px;">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabrielfalk&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="joaogabrielfalk" />
+<img height="150px" src="https://github-readme-stats-joaofalk.vercel.app/api?username=joaogabrielfalk&theme=aura_dark&show_icons=true&hide=stars" alt="joaogabrielfalk" />
 </div>
 
 
