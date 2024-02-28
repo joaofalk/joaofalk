@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm João Falk</h1>
 <h3 align="center">A fullstack software developer from Brazil</h3>
-<div style="display:flex; gap:5%; justify-content:center; margin-bottom:8px">
-<a href="https://www.linkedin.com/in/joaofalk/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=rgb(255%2C255%2C255)" alt="linkedin-clickable-badge"></a>
-<a href="mailto:joao.gabriel.falk@gmail.com"><img src="https://img.shields.io/badge/Gmail-FA6981?style=for-the-badge&logo=gmail&logoColor=rgb(255%2C255%2C255)" alt="gmail-clickable-badge"></a>
+<div style="text-align:center; margin-bottom:8px">
+<a style="display:inline-block; margin:0 2.5%" href="https://www.linkedin.com/in/joaofalk/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=rgb(255%2C255%2C255)" alt="linkedin-clickable-badge"></a>
+<a style="display:inline-block; margin:0 2.5%" href="mailto:joao.gabriel.falk@gmail.com"><img src="https://img.shields.io/badge/Gmail-FA6981?style=for-the-badge&logo=gmail&logoColor=rgb(255%2C255%2C255)" alt="gmail-clickable-badge"></a>
 </div>
 
 
@@ -10,9 +10,9 @@
 
 - I’m currently improving my **Clean Architecture** skills, while also trying my hand at new technologies like Go and Svelte.
 
-<div style="display:flex; gap: 2%; margin-top:25px; justify-content:center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabrielfalk&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="joaogabrielfalk" />
-<img height="150px" src="https://github-readme-stats-joaofalk.vercel.app/api?username=joaogabrielfalk&theme=aura_dark&show_icons=true&hide=stars" alt="joaogabrielfalk" />
+<div style="text-align:center; gap: 2%; margin-top:25px">
+<img style="display:inline-block; height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabrielfalk&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="joaogabrielfalk" />
+<img style="display:inline-block; height="150px" src="https://github-readme-stats-joaofalk.vercel.app/api?username=joaogabrielfalk&theme=aura_dark&show_icons=true&hide=stars" alt="joaogabrielfalk" />
 </div>
 
 
