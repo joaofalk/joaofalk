@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm João Falk</h1>
 <h3 align="center">A fullstack software developer from Brazil</h3>
 <div align="center">
-<div style="width: 50%; margin-bottom:8px">
-<a style="margin:0 5%" href="https://www.linkedin.com/in/joaofalk/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=rgb(255%2C255%2C255)" alt="linkedin-clickable-badge"></a>
-<a style="margin:0 5%" href="mailto:joao.gabriel.falk@gmail.com"><img src="https://img.shields.io/badge/Gmail-FA6981?style=for-the-badge&logo=gmail&logoColor=rgb(255%2C255%2C255)" alt="gmail-clickable-badge"></a>
+<div style="width: 50%; margin-bottom:8px;">
+<a style="margin-right: 2.5%;" href="https://www.linkedin.com/in/joaofalk/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=rgb(255%2C255%2C255)" alt="linkedin-clickable-badge"></a>
+<a style="margin-right: 2.5%;" href="mailto:joao.gabriel.falk@gmail.com"><img src="https://img.shields.io/badge/Gmail-FA6981?style=for-the-badge&logo=gmail&logoColor=rgb(255%2C255%2C255)" alt="gmail-clickable-badge"></a>
 </div>
 </div>
 
